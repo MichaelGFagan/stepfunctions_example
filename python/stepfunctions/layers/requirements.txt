@@ -1,0 +1,4 @@
+aws-lambda-powertools[pydantic]
+dynamodb-json
+pynamodb
+requests
